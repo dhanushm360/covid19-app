@@ -8,7 +8,7 @@ I have built and developed this mobile application for two main reasons: To help
 
 <p float="left">
     <img src ="Screens/Summary Screen.png" width=300 height=488.89>
-    <img src ="Screens/About COVID-19 Screen.png" width=300 height=488.89>
+    <img src ="Screens/About COVID-19 Screen1.png" width=300 height=488.89>
     <img src ="Screens/Data Screen - Cases Weekly.png" width=300 height=488.89>
 </p>
 
