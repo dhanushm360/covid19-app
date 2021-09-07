@@ -8,7 +8,7 @@ I have built and developed this mobile application for two main reasons: To help
 
 <div id="banner">
     <div class="inline-block">
-        <img src ="Screens/Summary Screen.png">
+        <img src ="Screens/Summary Screen.png" width=300 height=488.89>
     </div>
 
     <div class="inline-block">
