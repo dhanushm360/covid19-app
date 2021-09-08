@@ -12,4 +12,8 @@ I have built and developed this mobile application for two main reasons: To help
     <img src ="Screens/Data Screen - Cases Weekly.png" width=300 height=488.89>
 </p>
 
+## How it Works
+
+This mobile application uses your location and fetches COVID-19 data based on your county, state and country. The data which includes cases, deaths and vaccinations are fetched from a live API that is updated daily. The fetched data is then displayed right on your screen. There is also a search implementation within the application. The search is used to search for states or countries, and displaying extensive COVID-19 data on whatever the search is. 
+
 
